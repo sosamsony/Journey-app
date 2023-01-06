@@ -39,7 +39,7 @@ It is assumed that the JSON objects in the boardingPasses array will always have
 - Given API
 
 # Contact:
-> My Email: hello@sosarena.com
+> My Email: samsonosanyaolu@gmail.com.com or hello@sosamson.com
 
 <br />
 <a target="_blank" href="https://sosamson.com">
